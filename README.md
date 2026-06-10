@@ -6,7 +6,7 @@ The installation also features a potentiometer that simulates ambient room tempe
 
 
 
-**Main Features**
+## Main Features
 
 **Standby Mode:** While there are no users interacting, the system generates a continuous cloud of fluid light based on computational noise, parameterized by the color selected on the potentiometer.
 
